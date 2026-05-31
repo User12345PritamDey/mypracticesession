@@ -1,2 +1,3 @@
 node_modules/
 #use / because its a folder
+.env
